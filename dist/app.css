@@ -1,0 +1,60 @@
+body{
+    background: #aed6f1 ;
+    font-family: "Alata";
+    padding-bottom: 0.5rem;
+}
+
+h2 {
+    padding-top: 2rem;
+    color:#1a237e; 
+    font-size: 2.5rem;
+}
+
+p{
+    padding-bottom: 1rem;
+}
+
+content{
+    margin-bottom: 100px;
+}
+
+.img-fluid{
+    display: block;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.pic{
+    padding-right: 0px ;
+}
+
+.card{
+    background: rgba(250,250,250,0.5);
+}
+
+button{
+    margin-bottom: 1rem;
+}
+
+#mainNavbar{
+    background-color: #5c6bc0 ;
+}
+
+#mainNavbar .nav-link{
+    color: white;    
+}
+
+#mainNavbar .nav-link:hover{
+    color: #1a237e;    
+}
+
+#mainNavbar .navbar-brand{
+    color: #1a237e;
+    font-size: 1.5rem;
+}
+
+#headingGroup{
+    font-weight: 100;
+    font-size: 4rem;
+}
